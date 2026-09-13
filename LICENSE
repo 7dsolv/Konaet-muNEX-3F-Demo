@@ -1,0 +1,195 @@
+Konaet Authenticated Research and Commercial License 1.1
+Identifier: LicenseRef-Konaet-ARCL-1.1
+
+Copyright (c) 2026 Adilson Oliveira / Konaet (7dsolv).
+All rights reserved except for the permissions expressly granted below.
+
+This is a source-available license. It is not an open-source license as
+defined by the Open Source Initiative because commercial use and some forms
+of redistribution are restricted.
+
+1. Definitions
+
+"Licensor" means Adilson Oliveira, operating the Konaet project under the
+7dsolv handle, or a lawful successor that owns the applicable rights.
+
+"Materials" means the source code, model weights, numerical formats,
+configurations, documentation, diagrams, reports, manifests, public keys,
+signatures, and other artifacts that expressly identify this License.
+Third-party components and datasets are excluded unless they expressly state
+otherwise.
+
+"Official Release" means Materials whose inventory is signed by a private key
+corresponding to a public key published by the Licensor through an official
+Konaet channel. A signature attests bytes and release origin; it does not
+certify scientific claims or legal title by itself.
+
+"Adaptation" means a modified, fine-tuned, quantized, converted, merged,
+distilled, translated, ported, or otherwise derived version of the Materials.
+
+"Non-Commercial Purpose" means research, study, security review, education,
+personal experimentation, or internal evaluation that is not primarily
+intended for commercial advantage or monetary compensation.
+
+"Commercial Use" means use of the Materials or an Adaptation in connection
+with revenue, a paid product or service, advertising, consulting, customer
+delivery, commercial model training, a monetized API, or another activity
+primarily intended for commercial advantage.
+
+2. Non-commercial grant
+
+Subject to every condition in this License, the Licensor grants You a
+worldwide, non-exclusive, royalty-free license to:
+
+a. download, reproduce, run, inspect, and evaluate the Materials for a
+   Non-Commercial Purpose;
+b. create Adaptations for a Non-Commercial Purpose; and
+c. redistribute the Materials or an Adaptation for a Non-Commercial Purpose
+   only if You satisfy Sections 3, 4, and 5.
+
+No right to Commercial Use is granted. Commercial Use requires a separate
+written agreement signed by the Licensor.
+
+3. Attribution, provenance, and integrity
+
+Every copy or redistribution of the Materials or an Adaptation must:
+
+a. retain this License, COPYRIGHT.md, TRADEMARKS.md, all copyright notices,
+   and all attribution and provenance notices;
+b. identify the original project as "Konaet / Adilson Oliveira (7dsolv)" and
+   provide a link to the originating release where reasonably possible;
+c. preserve the original authenticity manifest, detached signature, and
+   public key without alteration;
+d. identify every material change, its author, and its date in a separate and
+   conspicuous modification notice;
+e. state clearly that an Adaptation is unofficial and is not cryptographically
+   identical to the Official Release;
+f. avoid using the original signature or provenance root to authenticate
+   altered bytes; and
+g. apply this License to the copied or adapted Materials.
+
+You may add a new signature to an Adaptation, but it must use a different key
+and must not be presented as a Konaet Official Release signature.
+
+4. Prohibited misrepresentation and removal
+
+You may not:
+
+a. remove, obscure, falsify, or replace authorship, license, attribution,
+   provenance, checkpoint lineage, memory lineage, or dataset notices;
+b. represent the Materials or an Adaptation as independently authored;
+c. represent altered files as byte-identical to an Official Release;
+d. forge, reuse deceptively, or misattribute a Konaet signature, key
+   fingerprint, release hash, badge, or verification result;
+e. imply sponsorship, certification, endorsement, or official status without
+   written permission from the Licensor; or
+f. bypass technical access controls to obtain artifacts not made available to
+   You.
+
+These conditions regulate licensed use of protected Materials. They do not
+claim ownership of ideas, facts, mathematical principles, public standards,
+or independently created expression.
+
+5. Model training, extraction, and derivatives
+
+For a Non-Commercial Purpose, You may fine-tune, quantize, convert, study, or
+distill a Model contained in the Materials. Resulting model artifacts are
+Adaptations and remain subject to this License.
+
+Using the Materials, an Adaptation, or systematically collected model outputs
+for Commercial Use, commercial training, commercial distillation, commercial
+imitation, or a monetized competing service is prohibited without a separate
+written agreement.
+
+This Section does not restrict independently developed systems that do not
+copy protected Materials and are not derived from them.
+
+6. Benchmarking and research publication
+
+You may publish benchmark results and academic analysis if You accurately
+identify the exact evaluated revision, hardware, protocol, limitations, and
+provenance, and do not imply endorsement by the Licensor. Negative results may
+not be suppressed when their omission would make a published Konaet comparison
+materially misleading.
+
+7. Outputs
+
+Except where an output reproduces protected portions of the Materials, the
+Licensor does not claim copyright in outputs generated through normal
+operation. You are responsible for evaluating outputs and complying with
+applicable law and third-party rights. Outputs are not professional advice,
+endorsement, or a warranty of correctness.
+
+8. Trademarks and project identity
+
+No trademark right is granted. The names and marks "Konaet", "Konaet µNEX",
+"µNEX", "Caurivyn", "Cauryvo", "Oliveira Optimizer", "Memory-Weave", and
+"7dsolv", and associated logos and trade dress, may be used only for truthful,
+reasonably necessary attribution. TRADEMARKS.md supplies additional guidance.
+
+9. Patents
+
+No patent license is granted, whether expressly, by implication, estoppel, or
+otherwise. Publication of a research description does not promise that an
+implementation is free from third-party patent rights.
+
+10. Third-party materials and data
+
+This License grants only rights controlled by the Licensor. Third-party code,
+models, datasets, papers, fonts, media, algorithms, standards, and dependencies
+retain their own notices and licenses. An artifact-specific notice controls
+for that artifact where its terms are more restrictive.
+
+11. Security and personal data
+
+You must not use the Materials unlawfully or to violate privacy, data
+protection, security, or other third-party rights. Authenticity mechanisms are
+integrity controls, not a promise that the Materials are vulnerability-free.
+
+12. Term and termination
+
+This License continues until terminated. Your rights terminate automatically
+when You materially breach it. Rights are reinstated if You fully cure an
+unintentional breach within 30 days after discovery, unless the Licensor has
+already given written notice concerning an intentional or repeated breach.
+Sections that by their nature must survive termination remain effective.
+
+13. Disclaimer of warranty
+
+THE MATERIALS ARE PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, SECURITY, TITLE, OR
+ERROR-FREE OPERATION.
+
+14. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR WILL NOT BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+CONSEQUENTIAL, OR OTHER DAMAGES ARISING FROM THE MATERIALS OR THIS LICENSE.
+
+15. Governing law and severability
+
+This License is governed by the laws of the Federative Republic of Brazil,
+without regard to conflict-of-law rules. If a provision is unenforceable, it
+will be limited to the minimum extent required and the remaining provisions
+will continue in effect.
+
+16. No waiver and no transfer of authority
+
+Failure to enforce a provision is not a waiver. No contributor, distributor,
+mirror, user, cryptographic key holder other than the Licensor, or automated
+system may expand this License or grant commercial rights on the Licensor's
+behalf.
+
+17. Entire public license
+
+This document is the entire public license grant for Materials identifying
+LicenseRef-Konaet-ARCL-1.1. A separately signed written agreement may grant
+additional rights. No README, badge, model output, manifest, hash, or signature
+changes these legal terms.
+
+18. Commercial permission
+
+Commercial rights and alternative terms may be requested only through an
+official contact channel published on the 7dsolv GitHub or Hugging Face
+profile. No silence or automated response constitutes permission.
